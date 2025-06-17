@@ -5,7 +5,7 @@
     </td>
     <td>
       <h1>Hi there, I'm <span style="color:#1DA1F2;">Shubham</span> 👋</h1>
-      <p><b>Graduated in BCA | Web Developer | Web Designer</b></p>
+      <p><b>Graduated in BCA | Software Engineer| Web Developer </b></p>
       <p>Coding my way through life, one line at a time 🚀</p>
 
       <p>
