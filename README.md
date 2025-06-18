@@ -53,7 +53,7 @@
 ### 🤝 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/shubham-thube-5701a3262">
+  <a href="https://www.linkedin.com/in/shubham-thube-535a6b235">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_shubham7702_">
